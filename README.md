@@ -4,7 +4,7 @@ Predict if SpaceX Falcon 9 first stage will land successfully after rocket launc
 In this capstone, we predict Falcon 9's successful landing and SpaceX's cost savings due to reusing stages.
 
 ## Data collection with Webscraping and Data wrangling
-## Objectives
+**Objectives**
 Manipulate data in a Pandas data frame.
 Create a Pandas data frame by converting a JSON file.
 Analyze the data in the Jupyter Notebook environment and make it sharable using GitHub.
